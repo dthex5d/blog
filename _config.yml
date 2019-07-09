@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
-url:              https://fongandrew.github.io
-baseurl:          '/hydeout'
+title:            dthex5d
+tagline:          'blog'
+description:      'A blog to record my personal experiences.'
+url:              https://dthex5d.github.io
+baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
@@ -15,8 +15,8 @@ baseurl:          '/hydeout'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'dthex5d'
+  url:            https://dthex5d.github.io
 
 paginate:         5
 # paginate_path:    '/page:num'
@@ -52,12 +52,12 @@ sidebar_home_link:  true
                                 # to enable a separate blog link.
 
 disqus:
-  shortname:      hydeout
+  shortname:      dthex5d-github-io
 
-google_analytics: UA-100461102-1
+#google_analytics: UA-100461102-1
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
-hydeout:
-  version:          4.0.2
-  repo:             https://github.com/fongandrew/hydeout
+#hydeout:
+#  version:          4.0.2
+#  repo:             https://github.com/fongandrew/hydeout
