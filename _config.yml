@@ -54,7 +54,7 @@ sidebar_home_link:  true
 disqus:
   shortname:      dthex5d-github-io
 
-#google_analytics: UA-100461102-1
+google_analytics: UA-143671627-1
 
 # Used for Hydeout's own Github page. Feel free to remove for your
 # own fork.
